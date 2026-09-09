@@ -1,5 +1,5 @@
 # GlobalPharmaSync — Database Management UI
-
+*Leer esto en [Español](README.es.md).*
 A full-stack database management system built to demonstrate Oracle 21c database design and REST API skills. The pharmacy domain was chosen to showcase complex real-world scenarios such as multi-branch inventory, business logic triggers, composite primary keys, and deferred constraints.
 
 > **Note:** This is a portfolio project. The pharmacy data and company name are fictional examples used to illustrate database architecture skills.
